@@ -10,9 +10,6 @@ labels:
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
-
-
 When I first started learning JavaScript, I felt quite nervous because I had just finished learning Python, C, and C++. One of the major challenges I face when learning new programming languages is that, during coding, I tend to forget which language I am currently using. As a result, I sometimes mix two programming syntaxes or include unnecessary imports in my code. However, as I compare JavaScript to Python, I find it more understandable. I missed using ';' since Python doesn't utilize it, and the absence of '{' in Python code sometimes confuses me about which line of code belongs to.
 
 From a software engineering perspective, I consider JavaScript a very useful tool due to its versatility in programming languages. For instance, it is known for its adaptability in both front-end and back-end development. Creating interactive and dynamic user interfaces is a significant benefit of using JavaScript. Another advantage is its widespread usage. Acquiring skills in JavaScript and its various libraries can facilitate a smooth transition from college to the job environment. For beginners in programming, learning JavaScript is relatively easy since its syntax is similar to that of C++ or C languages.
