@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
+title: "Introducetion to Javascript!"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2024-01-18
 published: true
 labels:
   - Software Engineering
