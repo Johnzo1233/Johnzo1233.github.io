@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/Scalar/Scalar-square.jpg
 title: "BMI Index"
 date: 2024-01-18
 published: true
