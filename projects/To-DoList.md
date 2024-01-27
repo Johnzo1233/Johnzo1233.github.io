@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/List/List-square.png
 title: "To-Do List"
 date: 2024-01-18
 published: true
