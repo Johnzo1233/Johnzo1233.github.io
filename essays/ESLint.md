@@ -8,6 +8,7 @@ published: true
 labels:
   - Coding Standards
 ---
+<img src="../img/CodeSt.img" >
 
 *Getting to Know the Software*
 
