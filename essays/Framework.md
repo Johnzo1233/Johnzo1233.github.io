@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The Sparkle that Led to Skills"
+title: "Designing the Web"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-22
 published: true
