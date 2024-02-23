@@ -1,5 +1,13 @@
-
-
+---
+layout: essay
+type: essay
+title: "The Sparkle that Led to Skills"
+# All dates must be YYYY-MM-DD format!
+date: 2024-02-22
+published: true
+labels:
+  - UI Framework
+---
 
 
 ## How is it Going So Far?
