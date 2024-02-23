@@ -8,7 +8,6 @@ published: true
 labels:
   - UI Frameworks
 ---
-<img src="Screenshot 2024-02-22 at 10.01.41 PM.png" >
 
 *How is it Going So Far?*
 
@@ -35,8 +34,8 @@ Bootstrap enjoys widespread adoption and robust developer support. Both framewor
 provided valuable learning experiences in user interface design. Semantic UI's semantic
 naming conventions have facilitated writing cleaner code, while Bootstrap's extensive 
 documentation and community support have offered invaluable resources for problem-solving 
-and learning. Ultimately, exploring these frameworks has not only streamlined my development process 
-but has also enriched my understanding of user interface design principles.
+and learning. Ultimately, exploring these frameworks has not only streamlined my development 
+process but has also enriched my understanding of user interface design principles.
 
 
 
