@@ -9,7 +9,7 @@ labels:
   - UI Frameworks
 ---
 
-*How is it Going So Far?*
+##How is it Going So Far?
 
 My experience with using HTML and style sheets has been both troublesome and enlightening 
 as it has allowed me to understand the user perspective better. We interact with websites 
@@ -19,7 +19,7 @@ issues. In my experience, mastering HTML syntax has been challenging and require
 attention, as syntax errors can impede development progress.
 
 
-*Smooth Operations*
+##Smooth Operations*
 
 In UI frameworks like Bootstrap 5 and Semantic UI, web development is greatly simplified.
 For instance, Bootstrap 5 offers pre-designed templates and tools that accelerate coding 
