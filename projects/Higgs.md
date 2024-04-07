@@ -20,7 +20,5 @@ An interesting observation emerged during the experimentation phase: adjustments
 
 From this project, I gleaned the importance of parameter tuning in enhancing the performance of machine learning models. Moreover, it underscored the significance of feature selection in discerning meaningful patterns within complex datasets. Ultimately, this experience highlighted the iterative nature of model refinement and the necessity of meticulous experimentation to achieve optimal results.
 
-<br>
-<img src="Johnzo1233.github.io/img/Kaggle.jpg" />
-<br>
+<img src="img/Kaggle.jpg" />
 
