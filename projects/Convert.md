@@ -2,17 +2,21 @@
 layout: project
 type: project
 image: img/Convert.jpg
-title: "Currency Converter"
-date: 2023-
+title: "Higgs Boson Detection 2024 Kaggle competition"
+date: 2024-2-12
 published: true
 labels:
   - Python
-  - Arduino
+  - Classification
   - 
-summary: "I have develop a function to convert dollars to a different currency."
+summary: "Enchancing the betterment of the classifier hyperparamters ."
 ---
 
-In a variety of situations where managing several currencies is necessary, a currency converter function comes in quite handy. Financial applications, such as personal budgeting tools or business accounting software, can benefit from this feature, which makes currency conversions easy. This feature is used by e-commerce platforms to show product prices to a global user base in their local currencies. Travel apps help users plan and budget for expenses in different countries by converting currencies. The function is also useful for financial data-related APIs and web services, offering a modular solution for managing currency-related operations in a variety of applications. Because of its adaptability, it is an essential tool for developers working on projects involving financial management, international transactions, or any situation where currency exchange is necessary.
+In the competition, we were tasked with distinguishing between two event classes: those that produce the exotic Higgs Boson particle and those that do not. Our dataset comprised 28 features describing the trajectories of decay particles, sourced from the ATLAS detector at the Large Hadron Collider at CERN, located near Geneva, Switzerland.
 
-Being able to travel around is a blessing but not knowing what is the value of the USD on to foreign land might be hard. I've created a dollar converted to places I have been. I first started to convert Dollar to the Philippine Peso since that is my birth place. I then created another statement to convert the dollar to different currencies, like the Korean Won, Japanese Yen, and the Canadian Dollar. This project helped me understand the different syntax that Python uses to help better understand the language itself. Understanding that the currencies value does change overtime this code has to have a consist update to meet with the current times. 
+Our primary objective was to employ a machine learning classifier to train on simulation and calibration data, categorizing the data into these two distinct events. In pursuit of this goal, I opted for a Random Forest Classifier due to its ability to handle a multitude of features and to identify the most impactful features among random subsets. Initially, my classifier yielded an accuracy score of 0.60, which subsequently increased to 0.69.
+
+An interesting observation emerged during the experimentation phase: adjustments to the parameters of the Random Forest Classifier significantly influenced the accuracy scores. Specifically, increasing the number of estimators (n_estimators) from 300 to 1000, raising the maximum depth (max_depth) from 10 to 20, and augmenting the minimum samples per leaf (min_samples_leaf) from 4 to 10 resulted in a notable accuracy improvement, elevating it from 0.69 to 0.79.
+
+From this project, I gleaned the importance of parameter tuning in enhancing the performance of machine learning models. Moreover, it underscored the significance of feature selection in discerning meaningful patterns within complex datasets. Ultimately, this experience highlighted the iterative nature of model refinement and the necessity of meticulous experimentation to achieve optimal results.
 
