@@ -8,7 +8,7 @@ published: true
 labels:
   - Coding Standards
 ---
-<img src="../img/CodeSt.img" >
+<img src="../img/CodeSt.img">
 
 *What are Design Patterns*
 
