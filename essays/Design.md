@@ -27,6 +27,7 @@ larger structures, emphasizing relationships between classes and their interacti
 defining how they interact, and distributing responsibilities among them).
 
 *Bring it All Together*
+
 In software engineering, it's important to know how to design software that's strong, 
 can grow, and is easy to keep up. Using structural design patterns helps with this. 
 These patterns are like tried-and-true tricks that make it easier to build software 
