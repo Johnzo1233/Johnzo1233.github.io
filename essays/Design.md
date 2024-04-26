@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Design Patterns Used in My Code"
 # All dates must be YYYY-MM-DD format!
-date: 2024-04-025
+date: 2024-04-25
 published: true
 labels:
   - Coding Standards
