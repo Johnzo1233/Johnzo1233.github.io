@@ -24,61 +24,90 @@ ICS 314 Software Engineering.
 I have used AI in class this semester in the following areas:
 
   1. Experience WODs
+
 I did not use any AI for Experience WODs since the videos provided by the
-professors were already helpful in solving the issues I was facing during the
+professors were already helpful in solving the issues I was face during the
 assignment. I think the only time I used AI was probably when I was looking
-for the ELint error. 
+for the ELint error. For example, when you miss a ';' or having to much spaces
+or not using the right imports are typically the errors I needed help own. 
+
   2. In-class Practice WODs
-For the in-class practice WODs, I used a form of AI for all of the practice.
-This happened if I had read any of the past materials or if new languages
-were taught recently. I believe using AI in practice WODs helped me better
-prepare for the actual WOD on Thursday since I already had the foundational
-knowledge of code.
+     
+For the in-class practice WODs, I used a form of AI for all of them.
+This happened if I had not read any of the past materials needed for
+the WOD or if a new languages was taught recently. I believe using AI in practice WODs helped me better prepare for the actual WOD on Thursday since I already had the foundational
+knowledge of code and easy can just focus on the task. 
+
   3. In-class WODs Meteor 1
-"I was fairly doing well with different languages like React and
+     
+I was fairly doing well with different languages like React and
 using HTML, but I had a strong distaste for learning Meteor.
 For this WOD, I also received a DNF since I didn't finish within the
 given time. Looking for answers on how to solve my code with different
-AI was challenging since all the suggestions were useless.
+AI was challenging since all the suggestions were useless. I was focusing on
+what to ask for help instead of actually doing the code. 
+
   4. Essays
+
 In terms of essays, I haven't had to ask AI to write one for me before, but
 I have used it to fix my grammar or choose the best word for a sentence.
 However, I've never really asked it to complete an essay for me. Personally,
 I enjoy writing, and it's easier for me to BS something and actually understand
 the text I produce, since it would be awkward if my professor praised me for
 an essay that I had no idea I wrote.
+
   5. Final project
+
 For the final project, I haven't had to use AI since the project from my end
 requires me to do the data collection of existing restaurants. For example,
 I had to create individual cards with location, time, and images. I was more
 focused on the customer side of things and what the user would experience,
 so I couldn't use AI at all.
+
   6. Learning a concept / tutorial
-I haven't had the chance to use AI at all
+
+I haven't had the chance to use AI at all in the past for learning a concept. For
+this class particular. 
+
   7. Answering a question in class or in Discord
+     
 I did not get the chance to need AI for answering questions I had,
 since Discord was available for me.
+
   8. Asking or answering a smart-question
+     
 No, since I rarely used Discord to answer my questions. What I
 usually do is watch YouTube videos since I'm a visual learner.
+
   9. Coding example e.g. “give an example of using Underscore .pluck”
+
 I had used AI multiple times but not for this class. I think for my other coding
 classes that require a little bit more examples for me to fully understand, but for ICS 314, I haven't had an opportunity to use AI.
+
   10. Explaining code
+
 AI comes in handy when I need to explain code, especially in times when we
  just learned a new way to .pluck or sort something out. I need a way to help my brain wrap around the idea.
+ 
   11. Writing code
+
 I usually ask AI to write code for me, but not for class-related tasks. It's more for understanding how to use a certain function or creating a new class with specific parameters that I want it to do. However, I haven't had the opportunity to have it create a whole code block with different classes and functions.
+
   12. Documenting code
+
 I haven't used AI for documenting code.
-  13. Quality assurance 
+
+  13. Quality assurance
+
 I also didn't participate in using AI for quality assurance.
+
   14. Other uses in ICS 314 not listed above
+
 When we had to make comment about someone from my group and I really wanna same something off pudding I asked AI to make it softer tone instead of a harsher tone. 
 
 ### III. Impact on Learning and Understanding:
 
-Personally, the impact of learning and my understanding with using AI has been beneficial. It not only ensures that I pass the class, but it also allows for faster response times when asking questions. For example, during the WODs every Thursday, I would feel anxious if I didn't have the chance to use AI because I couldn't rely on Google, which often directs me to lengthy articles. However, using AI provides an answer right away. My learning has significantly improved with tools like ChatGPT, or Bards Google, among others 
+Personally, the impact of learning and my understanding with use of AI has been beneficial. It not only ensures that I pass the class, but it also allows for faster response times when asking questions. For example, during the WODs every Thursday, I would feel anxious if I didn't have the chance to use AI because I couldn't rely on Google, which often directs me to lengthy articles. However, using AI provides an answer right away. My learning has significantly improved with tools like ChatGPT, or Bards Google, among others. 
 
 ### IV. Practical Applications:
 
