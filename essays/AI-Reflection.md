@@ -8,6 +8,7 @@ published: true
 labels:
   - AI tools
 ---
+<img src="../img/turning.jpg" >
 
 ### I. Introduction
 
