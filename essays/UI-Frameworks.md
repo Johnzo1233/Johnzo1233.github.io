@@ -4,7 +4,7 @@ type: essay
 title: "Developing Web Design Skill"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-22
-published: false
+published: true
 labels:
   - UI Frameworks
 ---
