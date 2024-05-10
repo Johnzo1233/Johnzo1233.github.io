@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Higgs.png
+image: img/HIG.png
 title: "Higgs Boson Detection 2024 Kaggle competition"
 date: 2024-2-12
 published: true
