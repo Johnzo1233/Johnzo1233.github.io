@@ -1,15 +1,14 @@
 ---
 layout: project
 type: project
-image: img/Higgs.png
+image: <img src="img/Higgs.png" style="width: 200px;">
 title: "Higgs Boson Detection 2024 Kaggle competition"
 date: 2024-2-12
 published: true
 labels:
   - Python
   - Classification
-  - 
-summary: "Enchancing the betterment of the classifier hyperparamters ."
+summary: "Enhancing the betterment of the classifier hyperparameters."
 ---
 
 In the competition, we were tasked with distinguishing between two event classes: those that produce the exotic Higgs Boson particle and those that do not. Our dataset comprised 28 features describing the trajectories of decay particles, sourced from the ATLAS detector at the Large Hadron Collider at CERN, located near Geneva, Switzerland.
