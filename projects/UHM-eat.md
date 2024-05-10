@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Convert.jpg
+image: img/Eat-Logo.png
 title: "UHM-What-To-Eat"
 date: 2024-2-12
 published: true
@@ -11,6 +11,8 @@ labels:
   - Database
 summary: "Viewing the different food vendors offered in UH Manoa"
 ---
+
+<img src="../img/Eat-UHM.png">
 
 ### Overview
 
@@ -68,6 +70,7 @@ menu items as needed.
 Manage Profile: Vendors can also manage their profile information, including contact 
 details and operating hours.
 
- <img src="../img/Eat-UHM.png">
+
+<a href="https://uhm-what-to-eat.github.io/">For More Information</a>
 
 
