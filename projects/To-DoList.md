@@ -4,7 +4,7 @@ type: project
 image: img/List.jpg
 title: "To-Do List"
 date: 2024-01-18
-published: true
+published: false
 labels:
   - Java
 summary: "For someone who is a procrastinator and needs to understand their are things to do."
