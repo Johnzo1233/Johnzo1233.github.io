@@ -68,6 +68,6 @@ menu items as needed.
 Manage Profile: Vendors can also manage their profile information, including contact 
 details and operating hours.
 
-
+ <img src="../img/Eat-UHM.png">
 
 
