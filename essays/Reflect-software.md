@@ -3,13 +3,12 @@ layout: essay
 type: essay
 title: "Passing down the Knowldge"
 # All dates must be YYYY-MM-DD format!
-date: 2024-05-010
+date: 2024-05-10
 published: true
 labels:
   - Coding Standards
   - Ethics of Coding
 ---
-<img src="../img/turning.jpg" width="200">
 
 ### I. Introduction
 
