@@ -10,6 +10,7 @@ labels:
   - Ethics of Coding
 ---
 
+
 ### I. Introduction
 
 As I near the end of my studies in software engineering, several key concepts 
