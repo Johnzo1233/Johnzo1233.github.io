@@ -10,6 +10,7 @@ labels:
   - Ethics of Coding
 ---
 
+<img src="../img/Ethics.png" width="200">
 
 ### I. Introduction
 
